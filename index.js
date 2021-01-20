@@ -10,9 +10,9 @@ destructivelyPrependKitten(name) {
 }
 
 destructivelyRemoveLastKitten() {
-  
+
 }
 
 destructivelyRemoveFirstKitten() {
-  
+
 }
