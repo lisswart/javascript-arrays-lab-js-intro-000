@@ -8,3 +8,11 @@ destructivelyAppendKitten(name) {
 destructivelyPrependKitten(name) {
 
 }
+
+destructivelyRemoveLastKitten() {
+  
+}
+
+destructivelyRemoveFirstKitten() {
+  
+}
